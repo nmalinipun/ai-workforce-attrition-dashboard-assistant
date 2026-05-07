@@ -123,7 +123,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("End-to-End AI Workforce Attrition Dashboard Assistant")
+st.title("AI Workforce Attrition Dashboard Assistant")
 
 st.markdown(
     """
